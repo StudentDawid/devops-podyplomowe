@@ -7,6 +7,11 @@
         "login": "Student Dawid",
         "name": "Dawid Kozak",
         "profile": "https://github.com/StudentDawid"
+      },
+      {
+        "login": "Krzysztof Chrzanowski",
+        "name": "Krzysztof Chrzanowski",
+        "profile": "https://github.com/kchrzanowski"
       }
     ]
   }
