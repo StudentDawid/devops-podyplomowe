@@ -14,20 +14,32 @@ Repozytorium przygotowane na studia podyplomowe dla przedmiotu "METODYKA DEVOPS 
 # Plan 1 - Instalacja
 
 1. Stworzenie konta na Githubie
-2. Stworzenie darmowego konta na atlasian w celu ściągnięcia sourcetree
-3. Ściągnięcie i instalacja SourceTree jeeli nie jest zainstalowane
-4. Ściągnięcie i instalacja Visual Studio Code jeeli nie jest zainstalowany
+2. Ściągnięcie i zainstalowanie Visual Studio Code
+3. Ściągnięcie i zainstalowanie SourceTree
+4. Podczas instalacji SourceTree zalogować się kontem Google lub założyć nowe konto atlasiana
 
 # Plan 2 - Swoje repozytorium
 
-1. Stworzenie repozytorium projektu na Githubie i zabawa opcjami
-2. Stworzenie brancha develop
-3. Clone swojego repozytorium i przejście na branch develop
-4. Stworzenie pliku "README.md" i dodanie tam swojego imienia i nazwiska
-5. Commit zmian, później push na repozytorium.
-6. Stworzenie Pull Requesta z developa do mastera
+1. Stworzenie nowego repozytorium projektu na Githubie, w opcji wybranie stworzenia pliku README
+2. Ściągnięcie/Clone swojego repozytorium przy uzyciu SourceTree
+3. Edycja pliku README.md, commit zmian, stronie Githuba co się zmieniło
+4. Push zmian, sprawdzenie na stronie Githuba co się zmieniło
+5. Stworzenie nowego brancha na stronie Githuba, sprawdzenie w SourceTree co się zmieniło
+6. Pull najnowszych zmian, sprawdzenie w SourceTree co się zmieniło
+7. Przełączenie się na nowy branch, dodanie nowego pliku i edycja README.md, commit zmian, push zmian. Po każdej akcji sprawdzenie co się zmieniło.
+8. Na stronie githuba stworzenie Pull Requesta
+9. Zmergowanie Pull Requesta
+10. Stworzenie lokalnego branch w SourceTree
+11. Dodanie nowego pliku, edycja README.md, commit zmian, push zmian. Po każdej akcji sprawdzenie co się zmieniło.
+12. Stworzenie Pull Requesta i Merge zmian.
 
-# Plan 3 - Cudze repozytorium
+# Plan 3 - Opcje Githuba
+
+1. Sprawdzenie opcji Pull Requestów
+2. Sprawdzenie opcji Issues
+3. Sprawdzenie opcji Projects
+
+# Plan 4 - Cudze repozytorium
 
 1. Fork tego repozytorium
 2. Stworzenie swojego brancha na kopii repozytorium (na forku)
