@@ -8,8 +8,6 @@ Repozytorium przygotowane na studia podyplomowe dla przedmiotu "METODYKA DEVOPS 
 - Podstawy gita - https://git-scm.com/book/pl/v1/Podstawy-Gita-Pierwsze-repozytorium-Gita
 - Github - https://github.com/
 - SourceTree - https://pl.atlassian.com/software/sourcetree
-- Hacktoberfest - https://hacktoberfest.digitalocean.com/
-- Hacktoberfest Białystok - https://web.facebook.com/events/264625304198088/
 
 # Plan 1 - Instalacja
 
